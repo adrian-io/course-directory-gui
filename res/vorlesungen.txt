@@ -1,0 +1,15 @@
+NAME	PROFESSOR	SEMESTER
+Mathematik 3	Winter	WiSe19
+ProKSy	Ratz	SoSe20
+SCM	Nickel	SoSe20
+Ökonometrie	Schienle	SoSe20
+Programmieren 1: Java	Zöllner	WiSe18
+Statistik I	Schienle	SoSe19
+Statistik II	Schienle	WiSe19
+Grundlagen der Informatik I	Sure-Vetter	SoSe19
+Grundlagen der Informatik II	Landesberger von Antburg	WiSe19
+Rechnungswesen	Strych	WiSe19
+Mathematik 2	Volkers	SoSe19
+Mathematik 1	Volkers	WiSe18
+Volkswirtschaftslehre I: Mikroökonomie	Reiß	WiSe18
+Werkstoffkunde I	Hoffman	WiSe18
