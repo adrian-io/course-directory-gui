@@ -1,5 +1,8 @@
 # course-directory-gui
 
+A Java GUI for the management of university courses. [model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Model–view–controller")
+
+
 
 ## GUI Screenshots
 ![GUI Screenshot Main Page](res/gui_screenshot_main_page.jpg)
